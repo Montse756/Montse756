@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Montse 👋
 
-<!--
-**Montse756/Montse756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas Computacionales (7mo semestre)
+Apasionada por el desarrollo web y siempre aprendiendo algo nuevo.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que manejo
+- HTML & CSS
+- JavaScript
+- Python
+- SQL
+- Node.js & Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Actualmente aprendiendo
+- Git & GitHub profesional
+- Desarrollo Full Stack
+- APIs REST
+- Buenas prácticas de desarrollo
+
+## 🚀 En qué estoy trabajando
+Construyendo mi primer proyecto Full Stack para mi portafolio profesional.
+
+## 📫 Contacto
+monsegarciac987@gmail.com
